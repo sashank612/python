@@ -1,0 +1,84 @@
+to read elements
+
+
+variable=datatype(input("enter msg"));
+
+
+Control Stements
+
+
+
+if 
+---
+
+if(cond):
+   stements;
+
+
+needs inundation else it causes inundation error
+
+
+else
+----
+else(cond):
+    statements;
+
+needs inundation
+
+
+
+
+else-if
+-------
+
+elif(cond):
+    statements;
+
+
+needs inundation
+
+
+
+---------------------------
+
+Loops
+
+
+while loop
+-------
+
+
+while(cond):
+   statements
+   update
+   
+   
+   For loop¶
+syntax:
+
+for <variableName> in <seq>:
+          <statements>
+-----------------------------------
+
+functional programming
+
+
+def fun_name(parameter)
+
+dont:
+ Even()
+EvenNumbers()
+
+do:
+even()
+evenNumber()
+
+functon in python starts with def   ->(keyword)
+
+syntax:
+
+    def functionName(parameters)
+
+
+
+
